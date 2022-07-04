@@ -1,0 +1,96 @@
+@font-face {
+	font-family: 'icomoon';
+	src: url('/fonts/icomoon.eot');
+	src: url('/fonts/icomoon.eot') format('embedded-opentype');
+	src: url('/fonts/icomoon.ttf') format('truetype');
+	src: url('/fonts/icomoon.woff') format('woff');
+	src: url('/fonts/icomoon.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+}
+
+[class^="mdi-"], [class*=" mdi-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'icomoon' !important;
+	speak: never;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+
+}
+
+.mdi-arrow-drop:before {
+  content: "\e900";
+}
+.mdi-battery-danger:before {
+  content: "\e901";
+}
+.mdi-battery-empty:before {
+  content: "\e902";
+}
+.mdi-battery-full:before {
+  content: "\e903";
+}
+.mdi-battery-middle:before {
+  content: "\e904";
+}
+.mdi-bell-attention:before {
+  content: "\e905";
+}
+.mdi-bell:before {
+  content: "\e906";
+}
+.mdi-burger:before {
+  content: "\e907";
+}
+.mdi-checkbox:before {
+  content: "\e908";
+}
+.mdi-checkbox-checked:before {
+  content: "\e909";
+}
+.mdi-close:before {
+  content: "\e90a";
+}
+.mdi-erase:before {
+  content: "\e90b";
+}
+.mdi-filters:before {
+  content: "\e90c";
+}
+.mdi-gps-point:before {
+  content: "\e90d";
+}
+.mdi-locked:before {
+  content: "\e90e";
+}
+.mdi-map:before {
+  content: "\e90f";
+}
+.mdi-scaner:before {
+  content: "\e910";
+}
+.mdi-scooter:before {
+  content: "\e911";
+}
+.mdi-sort-arrow-down:before {
+  content: "\e912";
+}
+.mdi-sort-arrow-up:before {
+  content: "\e913";
+}
+.mdi-speed:before {
+  content: "\e914";
+}
+.mdi-status:before {
+  content: "\e915";
+}
+.mdi-unlocked:before {
+  content: "\e916";
+}
+
